@@ -1,1 +1,1 @@
-팀 개발을 위한 Git&GitHub
+팀 개발을 위한 Git&GitHub (두 번째 커밋 수정용)
